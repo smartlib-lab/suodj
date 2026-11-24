@@ -1,0 +1,83 @@
+{
+  "*": {
+    "bulei": [
+      "译作"
+    ],
+    "canon": [
+      "索达吉堪布全集"
+    ],
+    "kind": [
+      "传记"
+    ],
+    "period": [
+      "现代"
+    ],
+    "person": [
+      "一世敦珠法王",
+      "索达吉堪布"
+    ]
+  },
+  "list": [
+    {"name": "序.md", "date": "2008-10-05", "kind": ["序"]},
+    {"name": "3岁.md"},
+    {"name": "4岁.md"},
+    {"name": "5岁.md"},
+    {"name": "6岁.md"},
+    {"name": "7岁.md"},
+    {"name": "8岁.md"},
+    {"name": "9岁.md"},
+    {"name": "10岁.md"},
+    {"name": "11岁.md"},
+    {"name": "12岁.md"},
+    {"name": "13岁.md"},
+    {"name": "14岁.md"},
+    {"name": "15岁.md"},
+    {"name": "16岁.md"},
+    {"name": "17岁.md"},
+    {"name": "18岁.md"},
+    {"name": "19岁.md"},
+    {"name": "20岁.md"},
+    {"name": "21岁.md"},
+    {"name": "22岁.md"},
+    {"name": "23岁.md"},
+    {"name": "24岁.md"},
+    {"name": "25岁.md"},
+    {"name": "26岁.md"},
+    {"name": "27岁.md"},
+    {"name": "28岁.md"},
+    {"name": "29岁.md"},
+    {"name": "30岁.md"},
+    {"name": "31岁.md"},
+    {"name": "32岁.md"},
+    {"name": "33岁.md"},
+    {"name": "34岁.md"},
+    {"name": "35岁.md"},
+    {"name": "36岁.md"},
+    {"name": "37岁.md"},
+    {"name": "38岁.md"},
+    {"name": "39岁.md"},
+    {"name": "40岁.md"},
+    {"name": "41岁.md"},
+    {"name": "42岁.md"},
+    {"name": "43岁.md"},
+    {"name": "44岁.md"},
+    {"name": "45岁.md"},
+    {"name": "46岁.md"},
+    {"name": "47岁.md"},
+    {"name": "48岁.md"},
+    {"name": "49岁.md"},
+    {"name": "50岁.md"},
+    {"name": "51岁.md"},
+    {"name": "52岁.md"},
+    {"name": "53岁.md"},
+    {"name": "54岁.md"},
+    {"name": "55岁.md"},
+    {"name": "56岁.md"},
+    {"name": "57岁.md"},
+    {"name": "58岁.md"},
+    {"name": "59岁.md"},
+    {"name": "60岁.md"},
+    {"name": "61岁.md"},
+    {"name": "62岁.md", "date": "2008-09-18"}
+  ]
+}

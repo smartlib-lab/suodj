@@ -1,0 +1,353 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "事师五十颂讲解（1998年版）·事师五十颂科判",
+    "root": true,
+    "direction": 1,
+    "children": [
+      {
+        "id": "n0001",
+        "topic": "[甲一] 首义",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B2%E4%B8%80%E3%80%81%E9%A6%96%E4%B9%89",
+        "children": [
+          {
+            "id": "n0002",
+            "topic": "[乙一] 皈敬",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%B8%80%E3%80%81%E7%9A%88%E6%95%AC"
+          },
+          {
+            "id": "n0003",
+            "topic": "[乙二] 立宗",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%BA%8C%E3%80%81%E7%AB%8B%E5%AE%97"
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "id": "n0004",
+        "topic": "[甲二] 中义",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B2%E4%BA%8C%E3%80%81%E4%B8%AD%E4%B9%89",
+        "children": [
+          {
+            "id": "n0005",
+            "topic": "[乙一] 依止上师之法",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%B8%80%E3%80%81%E4%BE%9D%E6%AD%A2%E4%B8%8A%E5%B8%88%E4%B9%8B%E6%B3%95",
+            "children": [
+              {
+                "id": "n0006",
+                "topic": "[丙一] 总示依止之法",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%B8%80%E3%80%81%E6%80%BB%E7%A4%BA%E4%BE%9D%E6%AD%A2%E4%B9%8B%E6%B3%95",
+                "children": [
+                  {
+                    "id": "n0007",
+                    "topic": "[丁一] 正义",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%80%E3%80%81%E6%AD%A3%E4%B9%89",
+                    "children": [
+                      {
+                        "id": "n0008",
+                        "topic": "[戊一] 略示依止之法",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%80%E3%80%81%E7%95%A5%E7%A4%BA%E4%BE%9D%E6%AD%A2%E4%B9%8B%E6%B3%95",
+                        "children": [
+                          {
+                            "id": "n0009",
+                            "topic": "[己一] 应恭敬上师之理",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%B8%80%E3%80%81%E5%BA%94%E6%81%AD%E6%95%AC%E4%B8%8A%E5%B8%88%E4%B9%8B%E7%90%86"
+                          },
+                          {
+                            "id": "n0010",
+                            "topic": "[己二] 如何修恭敬",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%BA%8C%E3%80%81%E5%A6%82%E4%BD%95%E4%BF%AE%E6%81%AD%E6%95%AC",
+                            "children": [
+                              {
+                                "id": "n0011",
+                                "topic": "[庚一] 总示恭敬承事之法",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E6%80%BB%E7%A4%BA%E6%81%AD%E6%95%AC%E6%89%BF%E4%BA%8B%E4%B9%8B%E6%B3%95"
+                              },
+                              {
+                                "id": "n0012",
+                                "topic": "[庚二] 特殊开许处",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E7%89%B9%E6%AE%8A%E5%BC%80%E8%AE%B8%E5%A4%84"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "n0013",
+                            "topic": "[己三] 观察所恭敬境及能依之人",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%B8%89%E3%80%81%E8%A7%82%E5%AF%9F%E6%89%80%E6%81%AD%E6%95%AC%E5%A2%83%E5%8F%8A%E8%83%BD%E4%BE%9D%E4%B9%8B%E4%BA%BA",
+                            "children": [
+                              {
+                                "id": "n0014",
+                                "topic": "[庚一] 上师与弟子应互相观察因缘",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E4%B8%8A%E5%B8%88%E4%B8%8E%E5%BC%9F%E5%AD%90%E5%BA%94%E4%BA%92%E7%9B%B8%E8%A7%82%E5%AF%9F%E5%9B%A0%E7%BC%98"
+                              },
+                              {
+                                "id": "n0015",
+                                "topic": "[庚二] 观察后应取舍之法",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E8%A7%82%E5%AF%9F%E5%90%8E%E5%BA%94%E5%8F%96%E8%88%8D%E4%B9%8B%E6%B3%95",
+                                "children": [
+                                  {
+                                    "id": "n0016",
+                                    "topic": "[辛一] 应舍之相",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E5%BA%94%E8%88%8D%E4%B9%8B%E7%9B%B8"
+                                  },
+                                  {
+                                    "id": "n0017",
+                                    "topic": "[辛二] 应取之相",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E5%BA%94%E5%8F%96%E4%B9%8B%E7%9B%B8"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "n0018",
+                        "topic": "[戊二] 广说依止之法",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4%E4%BE%9D%E6%AD%A2%E4%B9%8B%E6%B3%95",
+                        "children": [
+                          {
+                            "id": "n0019",
+                            "topic": "[己一] 远离不敬",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%B8%80%E3%80%81%E8%BF%9C%E7%A6%BB%E4%B8%8D%E6%95%AC",
+                            "children": [
+                              {
+                                "id": "n0020",
+                                "topic": "[庚一] 远离轻毁",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E8%BF%9C%E7%A6%BB%E8%BD%BB%E6%AF%81",
+                                "children": [
+                                  {
+                                    "id": "n0021",
+                                    "topic": "[辛一] 总说过患",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E6%80%BB%E8%AF%B4%E8%BF%87%E6%82%A3"
+                                  },
+                                  {
+                                    "id": "n0022",
+                                    "topic": "[辛二] 分说过患",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E5%88%86%E8%AF%B4%E8%BF%87%E6%82%A3"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0023",
+                                "topic": "[庚二] 远离恼触师心",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E8%BF%9C%E7%A6%BB%E6%81%BC%E8%A7%A6%E5%B8%88%E5%BF%83"
+                              },
+                              {
+                                "id": "n0024",
+                                "topic": "[庚三] 宣说不现见的谤师过患",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%89%E3%80%81%E5%AE%A3%E8%AF%B4%E4%B8%8D%E7%8E%B0%E8%A7%81%E7%9A%84%E8%B0%A4%E5%B8%88%E8%BF%87%E6%82%A3"
+                              },
+                              {
+                                "id": "n0025",
+                                "topic": "[庚四] 小结",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E5%9B%9B%E3%80%81%E5%B0%8F%E7%BB%93"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "n0026",
+                            "topic": "[己二] 修恭敬之法",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%BA%8C%E3%80%81%E4%BF%AE%E6%81%AD%E6%95%AC%E4%B9%8B%E6%B3%95",
+                            "children": [
+                              {
+                                "id": "n0027",
+                                "topic": "[庚一] 献供",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E7%8C%AE%E4%BE%9B",
+                                "children": [
+                                  {
+                                    "id": "n0028",
+                                    "topic": "[辛一] 清净自己的一切不净法",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E6%B8%85%E5%87%80%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E5%88%87%E4%B8%8D%E5%87%80%E6%B3%95"
+                                  },
+                                  {
+                                    "id": "n0029",
+                                    "topic": "[辛二] 供养自己之一切所有",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E4%BE%9B%E5%85%BB%E8%87%AA%E5%B7%B1%E4%B9%8B%E4%B8%80%E5%88%87%E6%89%80%E6%9C%89"
+                                  },
+                                  {
+                                    "id": "n0030",
+                                    "topic": "[辛三] 供养之理证",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%89%E3%80%81%E4%BE%9B%E5%85%BB%E4%B9%8B%E7%90%86%E8%AF%81"
+                                  },
+                                  {
+                                    "id": "n0031",
+                                    "topic": "[辛四] 守护三种誓言",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E5%9B%9B%E3%80%81%E5%AE%88%E6%8A%A4%E4%B8%89%E7%A7%8D%E8%AA%93%E8%A8%80"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0032",
+                                "topic": "[庚二] 观师为佛",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E8%A7%82%E5%B8%88%E4%B8%BA%E4%BD%9B",
+                                "children": [
+                                  {
+                                    "id": "n0033",
+                                    "topic": "[辛一] 正义",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E6%AD%A3%E4%B9%89"
+                                  },
+                                  {
+                                    "id": "n0034",
+                                    "topic": "[辛二] 于师影等也应恭敬",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E4%BA%8E%E5%B8%88%E5%BD%B1%E7%AD%89%E4%B9%9F%E5%BA%94%E6%81%AD%E6%95%AC"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0035",
+                                "topic": "[庚三] 依教奉行",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%89%E3%80%81%E4%BE%9D%E6%95%99%E5%A5%89%E8%A1%8C"
+                              },
+                              {
+                                "id": "n0036",
+                                "topic": "[庚四] 对待上师财物与眷属的方法",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E5%9B%9B%E3%80%81%E5%AF%B9%E5%BE%85%E4%B8%8A%E5%B8%88%E8%B4%A2%E7%89%A9%E4%B8%8E%E7%9C%B7%E5%B1%9E%E7%9A%84%E6%96%B9%E6%B3%95"
+                              },
+                              {
+                                "id": "n0037",
+                                "topic": "[庚五] 一切侍奉皆应清净",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%94%E3%80%81%E4%B8%80%E5%88%87%E4%BE%8D%E5%A5%89%E7%9A%86%E5%BA%94%E6%B8%85%E5%87%80",
+                                "children": [
+                                  {
+                                    "id": "n0038",
+                                    "topic": "[辛一] 遮止一切不如理行为",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E9%81%AE%E6%AD%A2%E4%B8%80%E5%88%87%E4%B8%8D%E5%A6%82%E7%90%86%E8%A1%8C%E4%B8%BA",
+                                    "children": [
+                                      {
+                                        "id": "n0039",
+                                        "topic": "[壬一] 在上师视力所及之处所应遮止的行为",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E5%9C%A8%E4%B8%8A%E5%B8%88%E8%A7%86%E5%8A%9B%E6%89%80%E5%8F%8A%E4%B9%8B%E5%A4%84%E6%89%80%E5%BA%94%E9%81%AE%E6%AD%A2%E7%9A%84%E8%A1%8C%E4%B8%BA"
+                                      },
+                                      {
+                                        "id": "n0040",
+                                        "topic": "[壬二] 在上师听力所及之处应遮止的行为",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E5%9C%A8%E4%B8%8A%E5%B8%88%E5%90%AC%E5%8A%9B%E6%89%80%E5%8F%8A%E4%B9%8B%E5%A4%84%E5%BA%94%E9%81%AE%E6%AD%A2%E7%9A%84%E8%A1%8C%E4%B8%BA"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "n0041",
+                                    "topic": "[辛二] 依止一切如理行为",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E4%BE%9D%E6%AD%A2%E4%B8%80%E5%88%87%E5%A6%82%E7%90%86%E8%A1%8C%E4%B8%BA"
+                                  },
+                                  {
+                                    "id": "n0042",
+                                    "topic": "[辛三] 遮止一切其他不如理行为",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%89%E3%80%81%E9%81%AE%E6%AD%A2%E4%B8%80%E5%88%87%E5%85%B6%E4%BB%96%E4%B8%8D%E5%A6%82%E7%90%86%E8%A1%8C%E4%B8%BA"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0043",
+                                "topic": "[庚六] 身语恭敬上师",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E5%85%AD%E3%80%81%E8%BA%AB%E8%AF%AD%E6%81%AD%E6%95%AC%E4%B8%8A%E5%B8%88",
+                                "children": [
+                                  {
+                                    "id": "n0044",
+                                    "topic": "[辛一] 身恭敬",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E8%BA%AB%E6%81%AD%E6%95%AC"
+                                  },
+                                  {
+                                    "id": "n0045",
+                                    "topic": "[辛二] 语恭敬",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E8%AF%AD%E6%81%AD%E6%95%AC"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0046",
+                                "topic": "[庚七] 离我慢",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%83%E3%80%81%E7%A6%BB%E6%88%91%E6%85%A2",
+                                "children": [
+                                  {
+                                    "id": "n0047",
+                                    "topic": "[辛一] 听受吩咐时离我慢",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E5%90%AC%E5%8F%97%E5%90%A9%E5%92%90%E6%97%B6%E7%A6%BB%E6%88%91%E6%85%A2"
+                                  },
+                                  {
+                                    "id": "n0048",
+                                    "topic": "[辛二] 听法时离我慢",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E5%90%AC%E6%B3%95%E6%97%B6%E7%A6%BB%E6%88%91%E6%85%A2"
+                                  },
+                                  {
+                                    "id": "n0049",
+                                    "topic": "[辛三] 一切时处离我慢",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%89%E3%80%81%E4%B8%80%E5%88%87%E6%97%B6%E5%A4%84%E7%A6%BB%E6%88%91%E6%85%A2"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0050",
+                                "topic": "[庚八] 不超越上师",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E5%85%AB%E3%80%81%E4%B8%8D%E8%B6%85%E8%B6%8A%E4%B8%8A%E5%B8%88",
+                                "children": [
+                                  {
+                                    "id": "n0051",
+                                    "topic": "[辛一] 欲行利他时应求开许",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E6%AC%B2%E8%A1%8C%E5%88%A9%E4%BB%96%E6%97%B6%E5%BA%94%E6%B1%82%E5%BC%80%E8%AE%B8"
+                                  },
+                                  {
+                                    "id": "n0052",
+                                    "topic": "[辛二] 所获利养皆应供养上师",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E6%89%80%E8%8E%B7%E5%88%A9%E5%85%BB%E7%9A%86%E5%BA%94%E4%BE%9B%E5%85%BB%E4%B8%8A%E5%B8%88"
+                                  },
+                                  {
+                                    "id": "n0053",
+                                    "topic": "[辛三] 上师前不应接受他人恭敬",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%89%E3%80%81%E4%B8%8A%E5%B8%88%E5%89%8D%E4%B8%8D%E5%BA%94%E6%8E%A5%E5%8F%97%E4%BB%96%E4%BA%BA%E6%81%AD%E6%95%AC"
+                                  },
+                                  {
+                                    "id": "n0054",
+                                    "topic": "[辛四] 身威仪之恭敬",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E5%9B%9B%E3%80%81%E8%BA%AB%E5%A8%81%E4%BB%AA%E4%B9%8B%E6%81%AD%E6%95%AC"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n0055",
+                    "topic": "[丁二] 附义",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%BA%8C%E3%80%81%E9%99%84%E4%B9%89"
+                  }
+                ]
+              },
+              {
+                "id": "n0056",
+                "topic": "[丙二] 特别开许之处",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%BA%8C%E3%80%81%E7%89%B9%E5%88%AB%E5%BC%80%E8%AE%B8%E4%B9%8B%E5%A4%84"
+              },
+              {
+                "id": "n0057",
+                "topic": "[丙三] 总结依止法之要义",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%B8%89%E3%80%81%E6%80%BB%E7%BB%93%E4%BE%9D%E6%AD%A2%E6%B3%95%E4%B9%8B%E8%A6%81%E4%B9%89"
+              }
+            ]
+          },
+          {
+            "id": "n0058",
+            "topic": "[乙二] 为弟子宣说依止法之适宜时机",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%BA%8C%E3%80%81%E4%B8%BA%E5%BC%9F%E5%AD%90%E5%AE%A3%E8%AF%B4%E4%BE%9D%E6%AD%A2%E6%B3%95%E4%B9%8B%E9%80%82%E5%AE%9C%E6%97%B6%E6%9C%BA"
+          },
+          {
+            "id": "n0059",
+            "topic": "[乙三] 云何令作相应之法器",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%B8%89%E3%80%81%E4%BA%91%E4%BD%95%E4%BB%A4%E4%BD%9C%E7%9B%B8%E5%BA%94%E4%B9%8B%E6%B3%95%E5%99%A8"
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "id": "n0060",
+        "topic": "[甲三] 末义",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/004%20%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3/%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3%EF%BC%881998%E5%B9%B4%E7%89%88%EF%BC%89%C2%B7%E4%BA%8B%E5%B8%88%E4%BA%94%E5%8D%81%E9%A2%82%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B2%E4%B8%89%E3%80%81%E6%9C%AB%E4%B9%89",
+        "direction": 1
+      }
+    ]
+  }
+}

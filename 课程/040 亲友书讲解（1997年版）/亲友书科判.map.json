@@ -1,0 +1,1043 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "亲友书科判\n（全论分三）",
+    "root": true,
+    "direction": 1,
+    "children": [
+      {
+        "id": "n0001",
+        "topic": "[甲一] 初义",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B2%E4%B8%80%E3%80%81%E5%88%9D%E4%B9%89",
+        "children": [
+          {
+            "id": "n0002",
+            "topic": "[乙一] 立誓句",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%B8%80%E3%80%81%E7%AB%8B%E8%AA%93%E5%8F%A5"
+          },
+          {
+            "id": "n0003",
+            "topic": "[乙二] 作者谦虚语",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%BA%8C%E3%80%81%E4%BD%9C%E8%80%85%E8%B0%A6%E8%99%9A%E8%AF%AD",
+            "children": [
+              {
+                "id": "n0004",
+                "topic": "[丙一] 词句上的谦虚",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%B8%80%E3%80%81%E8%AF%8D%E5%8F%A5%E4%B8%8A%E7%9A%84%E8%B0%A6%E8%99%9A"
+              },
+              {
+                "id": "n0005",
+                "topic": "[丙二] 意义上的谦虚",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%BA%8C%E3%80%81%E6%84%8F%E4%B9%89%E4%B8%8A%E7%9A%84%E8%B0%A6%E8%99%9A"
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "id": "n0006",
+        "topic": "[甲二] 论义",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B2%E4%BA%8C%E3%80%81%E8%AE%BA%E4%B9%89",
+        "children": [
+          {
+            "id": "n0007",
+            "topic": "[乙一] 道的基础",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%B8%80%E3%80%81%E9%81%93%E7%9A%84%E5%9F%BA%E7%A1%80",
+            "children": [
+              {
+                "id": "n0008",
+                "topic": "[丙一] 略说六种随念",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4%E5%85%AD%E7%A7%8D%E9%9A%8F%E5%BF%B5"
+              },
+              {
+                "id": "n0009",
+                "topic": "[丙二] 广说后三种随念",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4%E5%90%8E%E4%B8%89%E7%A7%8D%E9%9A%8F%E5%BF%B5",
+                "children": [
+                  {
+                    "id": "n0010",
+                    "topic": "[丁一] 随念天",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%80%E3%80%81%E9%9A%8F%E5%BF%B5%E5%A4%A9"
+                  },
+                  {
+                    "id": "n0011",
+                    "topic": "[丁二] 随念施",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%BA%8C%E3%80%81%E9%9A%8F%E5%BF%B5%E6%96%BD"
+                  },
+                  {
+                    "id": "n0012",
+                    "topic": "[丁三] 随念戒",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%89%E3%80%81%E9%9A%8F%E5%BF%B5%E6%88%92"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n0013",
+            "topic": "[乙二] 修道的本体",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%BA%8C%E3%80%81%E4%BF%AE%E9%81%93%E7%9A%84%E6%9C%AC%E4%BD%93",
+            "children": [
+              {
+                "id": "n0014",
+                "topic": "[丙一] 略说六波罗蜜多",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4%E5%85%AD%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A"
+              },
+              {
+                "id": "n0015",
+                "topic": "[丙二] 广说六波罗蜜多",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4%E5%85%AD%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A",
+                "children": [
+                  {
+                    "id": "n0016",
+                    "topic": "[丁一] 布施波罗蜜多",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%80%E3%80%81%E5%B8%83%E6%96%BD%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A"
+                  },
+                  {
+                    "id": "n0017",
+                    "topic": "[丁二] 持戒波罗蜜多",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%BA%8C%E3%80%81%E6%8C%81%E6%88%92%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A",
+                    "children": [
+                      {
+                        "id": "n0018",
+                        "topic": "[戊一] 所护的戒",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%80%E3%80%81%E6%89%80%E6%8A%A4%E7%9A%84%E6%88%92"
+                      },
+                      {
+                        "id": "n0019",
+                        "topic": "[戊二] 断除违品",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%BA%8C%E3%80%81%E6%96%AD%E9%99%A4%E8%BF%9D%E5%93%81"
+                      },
+                      {
+                        "id": "n0020",
+                        "topic": "[戊三] 修持不放逸",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%89%E3%80%81%E4%BF%AE%E6%8C%81%E4%B8%8D%E6%94%BE%E9%80%B8"
+                      },
+                      {
+                        "id": "n0021",
+                        "topic": "[戊四] 以喻说明不放逸",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E5%9B%9B%E3%80%81%E4%BB%A5%E5%96%BB%E8%AF%B4%E6%98%8E%E4%B8%8D%E6%94%BE%E9%80%B8"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n0022",
+                    "topic": "[丁三] 忍辱波罗蜜多",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%89%E3%80%81%E5%BF%8D%E8%BE%B1%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A",
+                    "children": [
+                      {
+                        "id": "n0023",
+                        "topic": "[戊一] 断除嗔心",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%80%E3%80%81%E6%96%AD%E9%99%A4%E5%97%94%E5%BF%83"
+                      },
+                      {
+                        "id": "n0024",
+                        "topic": "[戊二] 断除怀恨心",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%BA%8C%E3%80%81%E6%96%AD%E9%99%A4%E6%80%80%E6%81%A8%E5%BF%83"
+                      },
+                      {
+                        "id": "n0025",
+                        "topic": "[戊三] 心之差别",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%89%E3%80%81%E5%BF%83%E4%B9%8B%E5%B7%AE%E5%88%AB"
+                      },
+                      {
+                        "id": "n0026",
+                        "topic": "[戊四] 舍离粗语",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E5%9B%9B%E3%80%81%E8%88%8D%E7%A6%BB%E7%B2%97%E8%AF%AD"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n0027",
+                    "topic": "[丁四] 精进波罗蜜多",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E5%9B%9B%E3%80%81%E7%B2%BE%E8%BF%9B%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A",
+                    "children": [
+                      {
+                        "id": "n0028",
+                        "topic": "[戊一] 说精进之对境",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%80%E3%80%81%E8%AF%B4%E7%B2%BE%E8%BF%9B%E4%B9%8B%E5%AF%B9%E5%A2%83"
+                      },
+                      {
+                        "id": "n0029",
+                        "topic": "[戊二] 心行同一而精进",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%BA%8C%E3%80%81%E5%BF%83%E8%A1%8C%E5%90%8C%E4%B8%80%E8%80%8C%E7%B2%BE%E8%BF%9B"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n0030",
+                    "topic": "[丁五] 禅定波罗蜜多",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%BA%94%E3%80%81%E7%A6%85%E5%AE%9A%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A",
+                    "children": [
+                      {
+                        "id": "n0031",
+                        "topic": "[戊一] 前行",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%80%E3%80%81%E5%89%8D%E8%A1%8C",
+                        "children": [
+                          {
+                            "id": "n0032",
+                            "topic": "[己一] 断除散乱",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%B8%80%E3%80%81%E6%96%AD%E9%99%A4%E6%95%A3%E4%B9%B1",
+                            "children": [
+                              {
+                                "id": "n0033",
+                                "topic": "[庚一] 断外境之散乱",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E6%96%AD%E5%A4%96%E5%A2%83%E4%B9%8B%E6%95%A3%E4%B9%B1",
+                                "children": [
+                                  {
+                                    "id": "n0034",
+                                    "topic": "[辛一] 转变意乐调伏诸根",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E8%BD%AC%E5%8F%98%E6%84%8F%E4%B9%90%E8%B0%83%E4%BC%8F%E8%AF%B8%E6%A0%B9",
+                                    "children": [
+                                      {
+                                        "id": "n0035",
+                                        "topic": "[壬一] 断除邪淫",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E6%96%AD%E9%99%A4%E9%82%AA%E6%B7%AB"
+                                      },
+                                      {
+                                        "id": "n0036",
+                                        "topic": "[壬二] 调伏诸根",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E8%B0%83%E4%BC%8F%E8%AF%B8%E6%A0%B9"
+                                      },
+                                      {
+                                        "id": "n0037",
+                                        "topic": "[壬三] 未调伏诸根的过患",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%89%E3%80%81%E6%9C%AA%E8%B0%83%E4%BC%8F%E8%AF%B8%E6%A0%B9%E7%9A%84%E8%BF%87%E6%82%A3"
+                                      },
+                                      {
+                                        "id": "n0038",
+                                        "topic": "[壬四] 佛赞叹调伏诸根的功德",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E5%9B%9B%E3%80%81%E4%BD%9B%E8%B5%9E%E5%8F%B9%E8%B0%83%E4%BC%8F%E8%AF%B8%E6%A0%B9%E7%9A%84%E5%8A%9F%E5%BE%B7"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "n0039",
+                                    "topic": "[辛二] 了知境相断除贪心",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E4%BA%86%E7%9F%A5%E5%A2%83%E7%9B%B8%E6%96%AD%E9%99%A4%E8%B4%AA%E5%BF%83",
+                                    "children": [
+                                      {
+                                        "id": "n0040",
+                                        "topic": "[壬一] 观女身不净而断贪心",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E8%A7%82%E5%A5%B3%E8%BA%AB%E4%B8%8D%E5%87%80%E8%80%8C%E6%96%AD%E8%B4%AA%E5%BF%83"
+                                      },
+                                      {
+                                        "id": "n0041",
+                                        "topic": "[壬二] 了知欲乐法相而断贪心",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E4%BA%86%E7%9F%A5%E6%AC%B2%E4%B9%90%E6%B3%95%E7%9B%B8%E8%80%8C%E6%96%AD%E8%B4%AA%E5%BF%83"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0042",
+                                "topic": "[庚二] 断世间八法的散乱",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E6%96%AD%E4%B8%96%E9%97%B4%E5%85%AB%E6%B3%95%E7%9A%84%E6%95%A3%E4%B9%B1",
+                                "children": [
+                                  {
+                                    "id": "n0043",
+                                    "topic": "[辛一] 能断对治",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E8%83%BD%E6%96%AD%E5%AF%B9%E6%B2%BB",
+                                    "children": [
+                                      {
+                                        "id": "n0044",
+                                        "topic": "[壬一] 真正对治",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E7%9C%9F%E6%AD%A3%E5%AF%B9%E6%B2%BB"
+                                      },
+                                      {
+                                        "id": "n0045",
+                                        "topic": "[壬二] 对治差别",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E5%AF%B9%E6%B2%BB%E5%B7%AE%E5%88%AB"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "n0046",
+                                    "topic": "[辛二] 所断恶业",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E6%89%80%E6%96%AD%E6%81%B6%E4%B8%9A",
+                                    "children": [
+                                      {
+                                        "id": "n0047",
+                                        "topic": "[壬一] 断世间八法",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E6%96%AD%E4%B8%96%E9%97%B4%E5%85%AB%E6%B3%95"
+                                      },
+                                      {
+                                        "id": "n0048",
+                                        "topic": "[壬二] 断除罪业",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E6%96%AD%E9%99%A4%E7%BD%AA%E4%B8%9A",
+                                        "children": [
+                                          {
+                                            "id": "n0049",
+                                            "topic": "[癸一] 正断罪业",
+                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%99%B8%E4%B8%80%E3%80%81%E6%AD%A3%E6%96%AD%E7%BD%AA%E4%B8%9A"
+                                          },
+                                          {
+                                            "id": "n0050",
+                                            "topic": "[癸二] 断恶业的利益",
+                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%99%B8%E4%BA%8C%E3%80%81%E6%96%AD%E6%81%B6%E4%B8%9A%E7%9A%84%E5%88%A9%E7%9B%8A"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0051",
+                                "topic": "[庚三] 断除财物的散乱",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%89%EF%BC%88%E6%96%AD%E9%99%A4%E8%B4%A2%E7%89%A9%E7%9A%84%E6%95%A3%E4%B9%B1%EF%BC%89",
+                                "children": [
+                                  {
+                                    "id": "n0052",
+                                    "topic": "[辛一] 总说财物的类别",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E6%80%BB%E8%AF%B4%E8%B4%A2%E7%89%A9%E7%9A%84%E7%B1%BB%E5%88%AB"
+                                  },
+                                  {
+                                    "id": "n0053",
+                                    "topic": "[辛二] 别说断除财物散乱",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E5%88%AB%E8%AF%B4%E6%96%AD%E9%99%A4%E8%B4%A2%E7%89%A9%E6%95%A3%E4%B9%B1"
+                                  },
+                                  {
+                                    "id": "n0054",
+                                    "topic": "[辛三] 宣说能断之对治",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%89%E3%80%81%E5%AE%A3%E8%AF%B4%E8%83%BD%E6%96%AD%E4%B9%8B%E5%AF%B9%E6%B2%BB",
+                                    "children": [
+                                      {
+                                        "id": "n0055",
+                                        "topic": "[壬一] 对治贪欲的利益",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E5%AF%B9%E6%B2%BB%E8%B4%AA%E6%AC%B2%E7%9A%84%E5%88%A9%E7%9B%8A"
+                                      },
+                                      {
+                                        "id": "n0056",
+                                        "topic": "[壬二] 不对治的过失",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E4%B8%8D%E5%AF%B9%E6%B2%BB%E7%9A%84%E8%BF%87%E5%A4%B1"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0057",
+                                "topic": "[庚四] 断受用的散乱",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E5%9B%9B%E3%80%81%E6%96%AD%E5%8F%97%E7%94%A8%E7%9A%84%E6%95%A3%E4%B9%B1",
+                                "children": [
+                                  {
+                                    "id": "n0058",
+                                    "topic": "[辛一] 断舍妻子",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E6%96%AD%E8%88%8D%E5%A6%BB%E5%AD%90",
+                                    "children": [
+                                      {
+                                        "id": "n0059",
+                                        "topic": "[壬一] 应舍之妻",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E5%BA%94%E8%88%8D%E4%B9%8B%E5%A6%BB"
+                                      },
+                                      {
+                                        "id": "n0060",
+                                        "topic": "[壬二] 应取之妻",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E5%BA%94%E5%8F%96%E4%B9%8B%E5%A6%BB"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "n0061",
+                                    "topic": "[辛二] 断除贪食",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E6%96%AD%E9%99%A4%E8%B4%AA%E9%A3%9F"
+                                  },
+                                  {
+                                    "id": "n0062",
+                                    "topic": "[辛三] 断除睡眠",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%89%E3%80%81%E6%96%AD%E9%99%A4%E7%9D%A1%E7%9C%A0"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "n0063",
+                            "topic": "[己二] 修四无量",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%BA%8C%E3%80%81%E4%BF%AE%E5%9B%9B%E6%97%A0%E9%87%8F"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "n0064",
+                        "topic": "[戊二] 正行",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%BA%8C%E3%80%81%E6%AD%A3%E8%A1%8C"
+                      },
+                      {
+                        "id": "n0065",
+                        "topic": "[戊三] 后行",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%89%E3%80%81%E5%90%8E%E8%A1%8C",
+                        "children": [
+                          {
+                            "id": "n0066",
+                            "topic": "[己一] 善恶的辨别",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%B8%80%E3%80%81%E5%96%84%E6%81%B6%E7%9A%84%E8%BE%A8%E5%88%AB",
+                            "children": [
+                              {
+                                "id": "n0067",
+                                "topic": "[庚一] 善恶的轻重",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E5%96%84%E6%81%B6%E7%9A%84%E8%BD%BB%E9%87%8D"
+                              },
+                              {
+                                "id": "n0068",
+                                "topic": "[庚二] 微小罪业不能害大善业",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E5%BE%AE%E5%B0%8F%E7%BD%AA%E4%B8%9A%E4%B8%8D%E8%83%BD%E5%AE%B3%E5%A4%A7%E5%96%84%E4%B8%9A"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "n0069",
+                            "topic": "[己二] 禅定的障碍",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%BA%8C%E3%80%81%E7%A6%85%E5%AE%9A%E7%9A%84%E9%9A%9C%E7%A2%8D"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n0070",
+                    "topic": "[丁六] 般若波罗蜜多",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E5%85%AD%E3%80%81%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BD%97%E8%9C%9C%E5%A4%9A",
+                    "children": [
+                      {
+                        "id": "n0071",
+                        "topic": "[戊一] 略说信等五道",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4%E4%BF%A1%E7%AD%89%E4%BA%94%E9%81%93",
+                        "children": [
+                          {
+                            "id": "n0072",
+                            "topic": "[己一] 信等五道",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%B8%80%E3%80%81%E4%BF%A1%E7%AD%89%E4%BA%94%E9%81%93"
+                          },
+                          {
+                            "id": "n0073",
+                            "topic": "[己二] 依靠对治断除骄慢",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%BA%8C%E3%80%81%E4%BE%9D%E9%9D%A0%E5%AF%B9%E6%B2%BB%E6%96%AD%E9%99%A4%E9%AA%84%E6%85%A2"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "n0074",
+                        "topic": "[戊二] 广说正念等智慧",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%88%8A%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4%E6%AD%A3%E5%BF%B5%E7%AD%89%E6%99%BA%E6%85%A7",
+                        "children": [
+                          {
+                            "id": "n0075",
+                            "topic": "[己一] 一切有寂的根本为智慧",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%B8%80%E3%80%81%E4%B8%80%E5%88%87%E6%9C%89%E5%AF%82%E7%9A%84%E6%A0%B9%E6%9C%AC%E4%B8%BA%E6%99%BA%E6%85%A7",
+                            "children": [
+                              {
+                                "id": "n0076",
+                                "topic": "[庚一] 善趣根本为世间正见",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E5%96%84%E8%B6%A3%E6%A0%B9%E6%9C%AC%E4%B8%BA%E4%B8%96%E9%97%B4%E6%AD%A3%E8%A7%81"
+                              },
+                              {
+                                "id": "n0077",
+                                "topic": "[庚二] 解脱根本为出世间正见",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E8%A7%A3%E8%84%B1%E6%A0%B9%E6%9C%AC%E4%B8%BA%E5%87%BA%E4%B8%96%E9%97%B4%E6%AD%A3%E8%A7%81"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "n0078",
+                            "topic": "[己二] 宣说需求智慧",
+                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B1%E4%BA%8C%E3%80%81%E5%AE%A3%E8%AF%B4%E9%9C%80%E6%B1%82%E6%99%BA%E6%85%A7",
+                            "children": [
+                              {
+                                "id": "n0079",
+                                "topic": "[庚一] 宣说正见",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%B8%80%E3%80%81%E5%AE%A3%E8%AF%B4%E6%AD%A3%E8%A7%81",
+                                "children": [
+                                  {
+                                    "id": "n0080",
+                                    "topic": "[辛一] 抉择人无我",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E6%8A%89%E6%8B%A9%E4%BA%BA%E6%97%A0%E6%88%91"
+                                  },
+                                  {
+                                    "id": "n0081",
+                                    "topic": "[辛二] 观察五蕴",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E8%A7%82%E5%AF%9F%E4%BA%94%E8%95%B4"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "n0082",
+                                "topic": "[庚二] 宣说正道",
+                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%BA%9A%E4%BA%8C%E3%80%81%E5%AE%A3%E8%AF%B4%E6%AD%A3%E9%81%93",
+                                "children": [
+                                  {
+                                    "id": "n0083",
+                                    "topic": "[辛一] 道的违品为三种结",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%80%E3%80%81%E9%81%93%E7%9A%84%E8%BF%9D%E5%93%81%E4%B8%BA%E4%B8%89%E7%A7%8D%E7%BB%93"
+                                  },
+                                  {
+                                    "id": "n0084",
+                                    "topic": "[辛二] 道的正品顺缘为精进",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%BA%8C%E3%80%81%E9%81%93%E7%9A%84%E6%AD%A3%E5%93%81%E9%A1%BA%E7%BC%98%E4%B8%BA%E7%B2%BE%E8%BF%9B"
+                                  },
+                                  {
+                                    "id": "n0085",
+                                    "topic": "[辛三] 道的本体为三学",
+                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%9B%E4%B8%89%E3%80%81%E9%81%93%E7%9A%84%E6%9C%AC%E4%BD%93%E4%B8%BA%E4%B8%89%E5%AD%A6",
+                                    "children": [
+                                      {
+                                        "id": "n0086",
+                                        "topic": "[壬一] 总说三学",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%B8%80%E3%80%81%E6%80%BB%E8%AF%B4%E4%B8%89%E5%AD%A6"
+                                      },
+                                      {
+                                        "id": "n0087",
+                                        "topic": "[壬二] 别说慧学",
+                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%A3%AC%E4%BA%8C%E3%80%81%E5%88%AB%E8%AF%B4%E6%85%A7%E5%AD%A6",
+                                        "children": [
+                                          {
+                                            "id": "n0088",
+                                            "topic": "[癸一] 生起出离心",
+                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%99%B8%E4%B8%80%E3%80%81%E7%94%9F%E8%B5%B7%E5%87%BA%E7%A6%BB%E5%BF%83",
+                                            "children": [
+                                              {
+                                                "id": "n0089",
+                                                "topic": "[子一] 厌弃今世",
+                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AD%90%E4%B8%80%E3%80%81%E5%8E%8C%E5%BC%83%E4%BB%8A%E4%B8%96",
+                                                "children": [
+                                                  {
+                                                    "id": "n0090",
+                                                    "topic": "[丑一] 略说",
+                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%91%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4"
+                                                  },
+                                                  {
+                                                    "id": "n0091",
+                                                    "topic": "[丑二] 广说",
+                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%91%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4",
+                                                    "children": [
+                                                      {
+                                                        "id": "n0092",
+                                                        "topic": "[寅一] 寿命无常",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%B8%80%E3%80%81%E5%AF%BF%E5%91%BD%E6%97%A0%E5%B8%B8",
+                                                        "children": [
+                                                          {
+                                                            "id": "n0093",
+                                                            "topic": "[卯一] 死期无定而观无常",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%B8%80%E3%80%81%E6%AD%BB%E6%9C%9F%E6%97%A0%E5%AE%9A%E8%80%8C%E8%A7%82%E6%97%A0%E5%B8%B8"
+                                                          },
+                                                          {
+                                                            "id": "n0094",
+                                                            "topic": "[卯二] 决定死亡而观无常",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%BA%8C%E3%80%81%E5%86%B3%E5%AE%9A%E6%AD%BB%E4%BA%A1%E8%80%8C%E8%A7%82%E6%97%A0%E5%B8%B8"
+                                                          },
+                                                          {
+                                                            "id": "n0095",
+                                                            "topic": "[卯三] 依其他理而观无常",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%B8%89%E3%80%81%E4%BE%9D%E5%85%B6%E4%BB%96%E7%90%86%E8%80%8C%E8%A7%82%E6%97%A0%E5%B8%B8"
+                                                          },
+                                                          {
+                                                            "id": "n0096",
+                                                            "topic": "[卯四] 无常的结尾",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E5%9B%9B%E3%80%81%E6%97%A0%E5%B8%B8%E7%9A%84%E7%BB%93%E5%B0%BE"
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "id": "n0097",
+                                                        "topic": "[寅二] 人身难得",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%BA%8C%E3%80%81%E4%BA%BA%E8%BA%AB%E9%9A%BE%E5%BE%97",
+                                                        "children": [
+                                                          {
+                                                            "id": "n0098",
+                                                            "topic": "[卯一] 总说人身难得",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%B8%80%E3%80%81%E6%80%BB%E8%AF%B4%E4%BA%BA%E8%BA%AB%E9%9A%BE%E5%BE%97",
+                                                            "children": [
+                                                              {
+                                                                "id": "n0099",
+                                                                "topic": "[辰一] 以喻说明人身难得",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%80%E3%80%81%E4%BB%A5%E5%96%BB%E8%AF%B4%E6%98%8E%E4%BA%BA%E8%BA%AB%E9%9A%BE%E5%BE%97"
+                                                              },
+                                                              {
+                                                                "id": "n0100",
+                                                                "topic": "[辰二] 得人身不应造恶业",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%BA%8C%E3%80%81%E5%BE%97%E4%BA%BA%E8%BA%AB%E4%B8%8D%E5%BA%94%E9%80%A0%E6%81%B6%E4%B8%9A"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "id": "n0101",
+                                                            "topic": "[卯二] 顺缘依止四轮",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%BA%8C%E3%80%81%E9%A1%BA%E7%BC%98%E4%BE%9D%E6%AD%A2%E5%9B%9B%E8%BD%AE",
+                                                            "children": [
+                                                              {
+                                                                "id": "n0102",
+                                                                "topic": "[辰一] 宣说四轮",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%80%E3%80%81%E5%AE%A3%E8%AF%B4%E5%9B%9B%E8%BD%AE"
+                                                              },
+                                                              {
+                                                                "id": "n0103",
+                                                                "topic": "[辰二] 依止善知识",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%BA%8C%E3%80%81%E4%BE%9D%E6%AD%A2%E5%96%84%E7%9F%A5%E8%AF%86"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "id": "n0104",
+                                                            "topic": "[卯三] 违缘离八无暇",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%B8%89%E3%80%81%E8%BF%9D%E7%BC%98%E7%A6%BB%E5%85%AB%E6%97%A0%E6%9A%87"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "id": "n0105",
+                                                "topic": "[子二] 出离轮回",
+                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AD%90%E4%BA%8C%E3%80%81%E5%87%BA%E7%A6%BB%E8%BD%AE%E5%9B%9E",
+                                                "children": [
+                                                  {
+                                                    "id": "n0106",
+                                                    "topic": "[丑一] 略说",
+                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%91%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4"
+                                                  },
+                                                  {
+                                                    "id": "n0107",
+                                                    "topic": "[丑二] 广说",
+                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%91%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4",
+                                                    "children": [
+                                                      {
+                                                        "id": "n0108",
+                                                        "topic": "[寅一] 轮回虽现安乐无可信",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%B8%80%E3%80%81%E8%BD%AE%E5%9B%9E%E8%99%BD%E7%8E%B0%E5%AE%89%E4%B9%90%E6%97%A0%E5%8F%AF%E4%BF%A1",
+                                                        "children": [
+                                                          {
+                                                            "id": "n0109",
+                                                            "topic": "[卯一] 无可信之理",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%B8%80%E3%80%81%E6%97%A0%E5%8F%AF%E4%BF%A1%E4%B9%8B%E7%90%86",
+                                                            "children": [
+                                                              {
+                                                                "id": "n0110",
+                                                                "topic": "[辰一] 亲怨不定",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%80%E3%80%81%E4%BA%B2%E6%80%A8%E4%B8%8D%E5%AE%9A"
+                                                              },
+                                                              {
+                                                                "id": "n0111",
+                                                                "topic": "[辰二] 贪欲不足",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%BA%8C%E3%80%81%E8%B4%AA%E6%AC%B2%E4%B8%8D%E8%B6%B3"
+                                                              },
+                                                              {
+                                                                "id": "n0112",
+                                                                "topic": "[辰三] 后际不定",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%89%E3%80%81%E5%90%8E%E9%99%85%E4%B8%8D%E5%AE%9A"
+                                                              },
+                                                              {
+                                                                "id": "n0113",
+                                                                "topic": "[辰四] 高下不定",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E5%9B%9B%E3%80%81%E9%AB%98%E4%B8%8B%E4%B8%8D%E5%AE%9A",
+                                                                "children": [
+                                                                  {
+                                                                    "id": "n0114",
+                                                                    "topic": "[巳一] 世间妙欲不可信",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%B8%80%E3%80%81%E4%B8%96%E9%97%B4%E5%A6%99%E6%AC%B2%E4%B8%8D%E5%8F%AF%E4%BF%A1"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0115",
+                                                                    "topic": "[巳二] 密友不可信",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%BA%8C%E3%80%81%E5%AF%86%E5%8F%8B%E4%B8%8D%E5%8F%AF%E4%BF%A1"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0116",
+                                                                    "topic": "[巳三] 妙境不可信",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%B8%89%E3%80%81%E5%A6%99%E5%A2%83%E4%B8%8D%E5%8F%AF%E4%BF%A1"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0117",
+                                                                    "topic": "[巳四] 享乐不可信",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E5%9B%9B%E3%80%81%E4%BA%AB%E4%B9%90%E4%B8%8D%E5%8F%AF%E4%BF%A1"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0118",
+                                                                    "topic": "[巳五] 受用不可信",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%BA%94%E3%80%81%E5%8F%97%E7%94%A8%E4%B8%8D%E5%8F%AF%E4%BF%A1"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0119",
+                                                                    "topic": "[巳六] 威严不可信",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E5%85%AD%E3%80%81%E5%A8%81%E4%B8%A5%E4%B8%8D%E5%8F%AF%E4%BF%A1"
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "id": "n0120",
+                                                            "topic": "[卯二] 应当精勤修法",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%BA%8C%E3%80%81%E5%BA%94%E5%BD%93%E7%B2%BE%E5%8B%A4%E4%BF%AE%E6%B3%95"
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "id": "n0121",
+                                                        "topic": "[寅二] 思维广大轮回痛苦之理",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%BA%8C%E3%80%81%E6%80%9D%E7%BB%B4%E5%B9%BF%E5%A4%A7%E8%BD%AE%E5%9B%9E%E7%97%9B%E8%8B%A6%E4%B9%8B%E7%90%86",
+                                                        "children": [
+                                                          {
+                                                            "id": "n0122",
+                                                            "topic": "[卯一] 了知轮回苦性",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%B8%80%E3%80%81%E4%BA%86%E7%9F%A5%E8%BD%AE%E5%9B%9E%E8%8B%A6%E6%80%A7",
+                                                            "children": [
+                                                              {
+                                                                "id": "n0123",
+                                                                "topic": "[辰一] 地狱",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%80%E3%80%81%E5%9C%B0%E7%8B%B1",
+                                                                "children": [
+                                                                  {
+                                                                    "id": "n0124",
+                                                                    "topic": "[巳一] 略说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0125",
+                                                                    "topic": "[巳二] 广说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4",
+                                                                    "children": [
+                                                                      {
+                                                                        "id": "n0126",
+                                                                        "topic": "[午一] 真实了知痛苦",
+                                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%88%E4%B8%80%E3%80%81%E7%9C%9F%E5%AE%9E%E4%BA%86%E7%9F%A5%E7%97%9B%E8%8B%A6"
+                                                                      },
+                                                                      {
+                                                                        "id": "n0127",
+                                                                        "topic": "[午二] 如何生苦之因",
+                                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%88%E4%BA%8C%E3%80%81%E5%A6%82%E4%BD%95%E7%94%9F%E8%8B%A6%E4%B9%8B%E5%9B%A0",
+                                                                        "children": [
+                                                                          {
+                                                                            "id": "n0128",
+                                                                            "topic": "[未一] 思维疾速受苦",
+                                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%9C%AA%E4%B8%80%E3%80%81%E6%80%9D%E7%BB%B4%E7%96%BE%E9%80%9F%E5%8F%97%E8%8B%A6"
+                                                                          },
+                                                                          {
+                                                                            "id": "n0129",
+                                                                            "topic": "[未二] 思维难忍痛苦",
+                                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%9C%AA%E4%BA%8C%E3%80%81%E6%80%9D%E7%BB%B4%E9%9A%BE%E5%BF%8D%E7%97%9B%E8%8B%A6",
+                                                                            "children": [
+                                                                              {
+                                                                                "id": "n0130",
+                                                                                "topic": "[申一] 总说",
+                                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B3%E4%B8%80%E3%80%81%E6%80%BB%E8%AF%B4"
+                                                                              },
+                                                                              {
+                                                                                "id": "n0131",
+                                                                                "topic": "[申二] 分说",
+                                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B3%E4%BA%8C%E3%80%81%E5%88%86%E8%AF%B4"
+                                                                              },
+                                                                              {
+                                                                                "id": "n0132",
+                                                                                "topic": "[申三] 比喻",
+                                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B3%E4%B8%89%E3%80%81%E6%AF%94%E5%96%BB"
+                                                                              }
+                                                                            ]
+                                                                          },
+                                                                          {
+                                                                            "id": "n0133",
+                                                                            "topic": "[未三] 思维受苦时间",
+                                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%9C%AA%E4%B8%89%E3%80%81%E6%80%9D%E7%BB%B4%E5%8F%97%E8%8B%A6%E6%97%B6%E9%97%B4"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "id": "n0134",
+                                                                        "topic": "[午三] 断除苦因",
+                                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%88%E4%B8%89%E3%80%81%E6%96%AD%E9%99%A4%E8%8B%A6%E5%9B%A0"
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "id": "n0135",
+                                                                "topic": "[辰二] 旁生",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%BA%8C%E3%80%81%E6%97%81%E7%94%9F",
+                                                                "children": [
+                                                                  {
+                                                                    "id": "n0136",
+                                                                    "topic": "[巳一] 总说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%B8%80%E3%80%81%E6%80%BB%E8%AF%B4"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0137",
+                                                                    "topic": "[巳二] 分说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%BA%8C%E3%80%81%E5%88%86%E8%AF%B4"
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "id": "n0138",
+                                                                "topic": "[辰三] 饿鬼",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%89%E3%80%81%E9%A5%BF%E9%AC%BC",
+                                                                "children": [
+                                                                  {
+                                                                    "id": "n0139",
+                                                                    "topic": "[巳一] 略说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0140",
+                                                                    "topic": "[巳二] 广说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4",
+                                                                    "children": [
+                                                                      {
+                                                                        "id": "n0141",
+                                                                        "topic": "[午一] 所受痛苦",
+                                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%88%E4%B8%80%E3%80%81%E6%89%80%E5%8F%97%E7%97%9B%E8%8B%A6",
+                                                                        "children": [
+                                                                          {
+                                                                            "id": "n0142",
+                                                                            "topic": "[未一] 真实的痛苦",
+                                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%9C%AA%E4%B8%80%E3%80%81%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%97%9B%E8%8B%A6"
+                                                                          },
+                                                                          {
+                                                                            "id": "n0143",
+                                                                            "topic": "[未二] 痛苦的时间",
+                                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E6%9C%AA%E4%BA%8C%E3%80%81%E7%97%9B%E8%8B%A6%E7%9A%84%E6%97%B6%E9%97%B4"
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "id": "n0144",
+                                                                        "topic": "[午二] 受苦之因",
+                                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%88%E4%BA%8C%E3%80%81%E5%8F%97%E8%8B%A6%E4%B9%8B%E5%9B%A0"
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "id": "n0145",
+                                                                "topic": "[辰四] 天人",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E5%9B%9B%E3%80%81%E5%A4%A9%E4%BA%BA",
+                                                                "children": [
+                                                                  {
+                                                                    "id": "n0146",
+                                                                    "topic": "[巳一] 略说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0147",
+                                                                    "topic": "[巳二] 广说",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4"
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "id": "n0148",
+                                                                "topic": "[辰五] 阿修罗",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%BA%94%E3%80%81%E9%98%BF%E4%BF%AE%E7%BD%97"
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "id": "n0149",
+                                                            "topic": "[卯二] 断除轮回之根",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%BA%8C%E3%80%81%E6%96%AD%E9%99%A4%E8%BD%AE%E5%9B%9E%E4%B9%8B%E6%A0%B9",
+                                                            "children": [
+                                                              {
+                                                                "id": "n0150",
+                                                                "topic": "[辰一] 断除生死之理由",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%80%E3%80%81%E6%96%AD%E9%99%A4%E7%94%9F%E6%AD%BB%E4%B9%8B%E7%90%86%E7%94%B1"
+                                                              },
+                                                              {
+                                                                "id": "n0151",
+                                                                "topic": "[辰二] 精勤断除生死之教言",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%BA%8C%E3%80%81%E7%B2%BE%E5%8B%A4%E6%96%AD%E9%99%A4%E7%94%9F%E6%AD%BB%E4%B9%8B%E6%95%99%E8%A8%80"
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "id": "n0152",
+                                            "topic": "[癸二] 趣入涅槃",
+                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%99%B8%E4%BA%8C%E3%80%81%E8%B6%A3%E5%85%A5%E6%B6%85%E6%A7%83",
+                                            "children": [
+                                              {
+                                                "id": "n0153",
+                                                "topic": "[子一] 深信各解脱",
+                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AD%90%E4%B8%80%E3%80%81%E6%B7%B1%E4%BF%A1%E5%90%84%E8%A7%A3%E8%84%B1"
+                                              },
+                                              {
+                                                "id": "n0154",
+                                                "topic": "[子二] 修持道谛",
+                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AD%90%E4%BA%8C%E3%80%81%E4%BF%AE%E6%8C%81%E9%81%93%E8%B0%9B",
+                                                "children": [
+                                                  {
+                                                    "id": "n0155",
+                                                    "topic": "[丑一] 见道",
+                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%91%E4%B8%80%E3%80%81%E8%A7%81%E9%81%93",
+                                                    "children": [
+                                                      {
+                                                        "id": "n0156",
+                                                        "topic": "[寅一] 道的本体",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%B8%80%E3%80%81%E9%81%93%E7%9A%84%E6%9C%AC%E4%BD%93"
+                                                      },
+                                                      {
+                                                        "id": "n0157",
+                                                        "topic": "[寅二] 止观双运",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%BA%8C%E3%80%81%E6%AD%A2%E8%A7%82%E5%8F%8C%E8%BF%90",
+                                                        "children": [
+                                                          {
+                                                            "id": "n0158",
+                                                            "topic": "[卯一] 略说",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%B8%80%E3%80%81%E7%95%A5%E8%AF%B4"
+                                                          },
+                                                          {
+                                                            "id": "n0159",
+                                                            "topic": "[卯二] 广说",
+                                                            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%8D%AF%E4%BA%8C%E3%80%81%E5%B9%BF%E8%AF%B4",
+                                                            "children": [
+                                                              {
+                                                                "id": "n0160",
+                                                                "topic": "[辰一] 不授记的法",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%B8%80%E3%80%81%E4%B8%8D%E6%8E%88%E8%AE%B0%E7%9A%84%E6%B3%95"
+                                                              },
+                                                              {
+                                                                "id": "n0161",
+                                                                "topic": "[辰二] 缘起法",
+                                                                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E8%BE%B0%E4%BA%8C%E3%80%81%E7%BC%98%E8%B5%B7%E6%B3%95",
+                                                                "children": [
+                                                                  {
+                                                                    "id": "n0162",
+                                                                    "topic": "[巳一] 正说缘起",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%B8%80%E3%80%81%E6%AD%A3%E8%AF%B4%E7%BC%98%E8%B5%B7"
+                                                                  },
+                                                                  {
+                                                                    "id": "n0163",
+                                                                    "topic": "[巳二] 赞叹缘起",
+                                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%B7%B3%E4%BA%8C%E3%80%81%E8%B5%9E%E5%8F%B9%E7%BC%98%E8%B5%B7"
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "id": "n0164",
+                                                    "topic": "[丑二] 修道",
+                                                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%91%E4%BA%8C%E3%80%81%E4%BF%AE%E9%81%93",
+                                                    "children": [
+                                                      {
+                                                        "id": "n0165",
+                                                        "topic": "[寅一] 修道的本体",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%B8%80%E3%80%81%E4%BF%AE%E9%81%93%E7%9A%84%E6%9C%AC%E4%BD%93"
+                                                      },
+                                                      {
+                                                        "id": "n0166",
+                                                        "topic": "[寅二] 修道之理",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%BA%8C%E3%80%81%E4%BF%AE%E9%81%93%E4%B9%8B%E7%90%86"
+                                                      },
+                                                      {
+                                                        "id": "n0167",
+                                                        "topic": "[寅三] 现见四谛",
+                                                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E5%AF%85%E4%B8%89%E3%80%81%E7%8E%B0%E8%A7%81%E5%9B%9B%E8%B0%9B"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n0168",
+                "topic": "[丙三] 结尾赞叹",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%B8%89%E3%80%81%E7%BB%93%E5%B0%BE%E8%B5%9E%E5%8F%B9",
+                "children": [
+                  {
+                    "id": "n0169",
+                    "topic": "[丁一] 赞叹劣身亦可修成",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%80%E3%80%81%E8%B5%9E%E5%8F%B9%E5%8A%A3%E8%BA%AB%E4%BA%A6%E5%8F%AF%E4%BF%AE%E6%88%90"
+                  },
+                  {
+                    "id": "n0170",
+                    "topic": "[丁二] 赞叹略修亦能成就",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%BA%8C%E3%80%81%E8%B5%9E%E5%8F%B9%E7%95%A5%E4%BF%AE%E4%BA%A6%E8%83%BD%E6%88%90%E5%B0%B1"
+                  },
+                  {
+                    "id": "n0171",
+                    "topic": "[丁三] 赞叹力所能及之修",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%89%E3%80%81%E8%B5%9E%E5%8F%B9%E5%8A%9B%E6%89%80%E8%83%BD%E5%8F%8A%E4%B9%8B%E4%BF%AE"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "id": "n0172",
+        "topic": "[甲三] 后义",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E7%94%B2%E4%B8%89%E3%80%81%E5%90%8E%E4%B9%89",
+        "children": [
+          {
+            "id": "n0173",
+            "topic": "[乙一] 以随喜心回向",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%B8%80%E3%80%81%E4%BB%A5%E9%9A%8F%E5%96%9C%E5%BF%83%E5%9B%9E%E5%90%91",
+            "children": [
+              {
+                "id": "n0174",
+                "topic": "[丙一] 回向",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%B8%80%E3%80%81%E5%9B%9E%E5%90%91"
+              },
+              {
+                "id": "n0175",
+                "topic": "[丙二] 果位",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%99%E4%BA%8C%E3%80%81%E6%9E%9C%E4%BD%8D",
+                "children": [
+                  {
+                    "id": "n0176",
+                    "topic": "[丁一] 暂时的果位",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%B8%80%E3%80%81%E6%9A%82%E6%97%B6%E7%9A%84%E6%9E%9C%E4%BD%8D"
+                  },
+                  {
+                    "id": "n0177",
+                    "topic": "[丁二] 究竟的果位",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B8%81%E4%BA%8C%E3%80%81%E7%A9%B6%E7%AB%9F%E7%9A%84%E6%9E%9C%E4%BD%8D"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n0178",
+            "topic": "[乙二] 略说上述教言",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%BE%E7%A8%8B/040%20%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3%EF%BC%881997%E5%B9%B4%E7%89%88%EF%BC%89/%E4%BA%B2%E5%8F%8B%E4%B9%A6%E8%AE%B2%E8%A7%A3.md&q=%E4%B9%99%E4%BA%8C%E3%80%81%E7%95%A5%E8%AF%B4%E4%B8%8A%E8%BF%B0%E6%95%99%E8%A8%80"
+          }
+        ],
+        "direction": 1
+      }
+    ]
+  }
+}

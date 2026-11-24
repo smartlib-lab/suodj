@@ -1,0 +1,133 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "大圆满心性自解脱引导文科判\n（全论分三）",
+    "root": true,
+    "direction": 1,
+    "children": [
+      {
+        "id": "n0001",
+        "topic": "[甲一] 传承上师之次第",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E7%94%B2%E4%B8%80%E3%80%81%E4%BC%A0%E6%89%BF%E4%B8%8A%E5%B8%88%E4%B9%8B%E6%AC%A1%E7%AC%AC",
+        "direction": 1
+      },
+      {
+        "id": "n0002",
+        "topic": "[甲二] 所传之教授",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E7%94%B2%E4%BA%8C%EF%BC%88%E6%89%80%E4%BC%A0%E4%B9%8B%E6%95%99%E6%8E%88%EF%BC%89",
+        "children": [
+          {
+            "id": "n0003",
+            "topic": "[乙一] 即生实修自解脱之教授",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B9%99%E4%B8%80%EF%BC%88%E5%8D%B3%E7%94%9F%E5%AE%9E%E4%BF%AE%E8%87%AA%E8%A7%A3%E8%84%B1%E4%B9%8B%E6%95%99%E6%8E%88%EF%BC%89",
+            "children": [
+              {
+                "id": "n0004",
+                "topic": "[丙一] 前行",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%99%E4%B8%80%EF%BC%88%E5%89%8D%E8%A1%8C%EF%BC%89",
+                "children": [
+                  {
+                    "id": "n0005",
+                    "topic": "[丁一] 获得加持——上师之道用",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%B8%80%E3%80%81%E8%8E%B7%E5%BE%97%E5%8A%A0%E6%8C%81%E2%80%94%E2%80%94%E4%B8%8A%E5%B8%88%E4%B9%8B%E9%81%93%E7%94%A8"
+                  },
+                  {
+                    "id": "n0006",
+                    "topic": "[丁二] 圆满二大资粮——曼茶罗之道用",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%BA%8C%E3%80%81%E5%9C%86%E6%BB%A1%E4%BA%8C%E5%A4%A7%E8%B5%84%E7%B2%AE%E2%80%94%E2%80%94%E6%9B%BC%E8%8C%B6%E7%BD%97%E4%B9%8B%E9%81%93%E7%94%A8"
+                  },
+                  {
+                    "id": "n0007",
+                    "topic": "[丁三] 净除二障——百字明之道用",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%B8%89%E3%80%81%E5%87%80%E9%99%A4%E4%BA%8C%E9%9A%9C%E2%80%94%E2%80%94%E7%99%BE%E5%AD%97%E6%98%8E%E4%B9%8B%E9%81%93%E7%94%A8"
+                  },
+                  {
+                    "id": "n0008",
+                    "topic": "[丁四] 生起出离心——寿命无常之道用",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E5%9B%9B%E3%80%81%E7%94%9F%E8%B5%B7%E5%87%BA%E7%A6%BB%E5%BF%83%E2%80%94%E2%80%94%E5%AF%BF%E5%91%BD%E6%97%A0%E5%B8%B8%E4%B9%8B%E9%81%93%E7%94%A8"
+                  },
+                  {
+                    "id": "n0009",
+                    "topic": "[丁五] 道前行——皈依之道用",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%BA%94%E3%80%81%E9%81%93%E5%89%8D%E8%A1%8C%E2%80%94%E2%80%94%E7%9A%88%E4%BE%9D%E4%B9%8B%E9%81%93%E7%94%A8"
+                  },
+                  {
+                    "id": "n0010",
+                    "topic": "[丁六] 趋入法道——菩提心之道用",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E5%85%AD%E3%80%81%E8%B6%8B%E5%85%A5%E6%B3%95%E9%81%93%E2%80%94%E2%80%94%E8%8F%A9%E6%8F%90%E5%BF%83%E4%B9%8B%E9%81%93%E7%94%A8"
+                  },
+                  {
+                    "id": "n0011",
+                    "topic": "[丁七] 生起实相证悟——了义精华之道用",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%B8%83%EF%BC%88%E7%94%9F%E8%B5%B7%E5%AE%9E%E7%9B%B8%E8%AF%81%E6%82%9F%E2%80%94%E2%80%94%E4%BA%86%E4%B9%89%E7%B2%BE%E5%8D%8E%E4%B9%8B%E9%81%93%E7%94%A8%EF%BC%89",
+                    "children": [
+                      {
+                        "id": "n0012",
+                        "topic": "[戊一] 寻求寂止",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E6%88%8A%E4%B8%80%E3%80%81%E5%AF%BB%E6%B1%82%E5%AF%82%E6%AD%A2"
+                      },
+                      {
+                        "id": "n0013",
+                        "topic": "[戊二] 生起胜观",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E6%88%8A%E4%BA%8C%E3%80%81%E7%94%9F%E8%B5%B7%E8%83%9C%E8%A7%82"
+                      },
+                      {
+                        "id": "n0014",
+                        "topic": "[戊三] 认识双运",
+                        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E6%88%8A%E4%B8%89%E3%80%81%E8%AE%A4%E8%AF%86%E5%8F%8C%E8%BF%90"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n0015",
+                "topic": "[丙二] 正行直指",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%99%E4%BA%8C%E3%80%81%E6%AD%A3%E8%A1%8C%E7%9B%B4%E6%8C%87"
+              },
+              {
+                "id": "n0016",
+                "topic": "[丙三] 后行",
+                "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%99%E4%B8%89%EF%BC%88%E5%90%8E%E8%A1%8C%EF%BC%89",
+                "children": [
+                  {
+                    "id": "n0017",
+                    "topic": "[丁一] 修炼妙力",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%B8%80%E3%80%81%E4%BF%AE%E7%82%BC%E5%A6%99%E5%8A%9B"
+                  },
+                  {
+                    "id": "n0018",
+                    "topic": "[丁二] 遣除障碍",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%BA%8C%E3%80%81%E9%81%A3%E9%99%A4%E9%9A%9C%E7%A2%8D"
+                  },
+                  {
+                    "id": "n0019",
+                    "topic": "[丁三] 增进境界",
+                    "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B8%81%E4%B8%89%E3%80%81%E5%A2%9E%E8%BF%9B%E5%A2%83%E7%95%8C"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n0020",
+            "topic": "[乙二] 中阴现基光明之教授",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B9%99%E4%BA%8C%E3%80%81%E4%B8%AD%E9%98%B4%E7%8E%B0%E5%9F%BA%E5%85%89%E6%98%8E%E4%B9%8B%E6%95%99%E6%8E%88"
+          },
+          {
+            "id": "n0021",
+            "topic": "[乙三] 究竟果位之教授",
+            "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E4%B9%99%E4%B8%89%E3%80%81%E7%A9%B6%E7%AB%9F%E6%9E%9C%E4%BD%8D%E4%B9%8B%E6%95%99%E6%8E%88"
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "id": "n0022",
+        "topic": "[甲三] 郑重印持此教",
+        "hyperLink": "smartlib://open?lib=.&path=%E8%AF%91%E4%BD%9C/079%20%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1/%E5%A4%A7%E5%9C%86%E6%BB%A1%E5%BF%83%E6%80%A7%E8%87%AA%E8%A7%A3%E8%84%B1%E5%BC%95%E5%AF%BC%E6%96%87%E2%80%94%E2%80%94%E9%81%93%E6%AC%A1%E7%AC%AC%E7%B2%BE%E5%8D%8E.md&q=%E7%94%B2%E4%B8%89%E3%80%81%E9%83%91%E9%87%8D%E5%8D%B0%E6%8C%81%E6%AD%A4%E6%95%99",
+        "direction": 1
+      }
+    ]
+  }
+}
